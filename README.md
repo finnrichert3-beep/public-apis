@@ -1021,6 +1021,7 @@ API | Description | Auth | HTTPS | CORS |
 | [RunConvert](https://www.runconvert.com/docs) | Convert video, audio, image, and document files programmatically | `apiKey` | Yes | No |
 | [Sahifa](https://sahifa.dev/en/docs) | HTML/URL to PDF and screenshots with Arabic and right-to-left support; free tier | `apiKey` | Yes | No |
 | [Shortcut](https://developer.shortcut.com) | Manage stories, epics, iterations and objectives in a Shortcut workspace | `apiKey` | Yes | No |
+| [Taskade](https://www.taskade.com/docs) | REST API for workspaces, projects, tasks, agents, and automations | `apiKey` | Yes | Unknown |
 | [TeamSort](https://teamsort.world/developers) | Create a ranked-choice poll from a text prompt and get a shareable link | No | Yes | Yes |
 | [The Drive AI](https://dev.thedrive.ai/docs) | Extract and analyze data from 107+ file types and URLs into structured JSON, with a free tier | `apiKey` | Yes | Unknown |
 | [Todoist](https://developer.todoist.com) | Todo Lists | `OAuth` | Yes | Unknown |
